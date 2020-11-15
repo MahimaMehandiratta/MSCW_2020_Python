@@ -1,0 +1,2 @@
+Hello User,Welcome!!!!
+This program opens a file if it exist and read its content.
